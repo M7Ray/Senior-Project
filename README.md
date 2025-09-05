@@ -39,6 +39,20 @@ To sum up, the developed product has combined both sports and technologies and m
 significant contribution to organizing marathon events in addition to motivating runners to 
 participate.
 
+By the end of the project, it can be said that the goals have been substantially met:
+
+
+- Developing a tracker: The tracker that was produced can track runners' positions and measure their collapse time. It was also successfully combined with the created station, which made it possible to analyze and manage the data to inform runners about their performance.
+
+
+- Developing a cost-effective solution: The product was implemented within a fair budget and cost control planning throughout the project's plan.
+
+
+- Using GPS chips: GPS chips are integrated to detect when participants attempt to take shortcut while notifying the station.
+
+
+- IMU readings: gyroscopic and acceleration data were successfully obtained from the players’ device to measure the runners' movements, to detect when a player faints
+
 # High level architecture
 
 ![Image](https://github.com/user-attachments/assets/8cc7d492-e7f9-4d9e-98b7-8e16534dafd8)
